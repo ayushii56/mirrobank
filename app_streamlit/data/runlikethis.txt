@@ -1,0 +1,1 @@
+streamlit run app_streamlit/Home.py                   --- write this in terminal of Home.py
