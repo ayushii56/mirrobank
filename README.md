@@ -1,0 +1,1 @@
+MirrorBank is a Python + MySQL finance app built with Streamlit. It lets users manage accounts, track transactions, set budgets with alerts, and monitor savings goals. With dashboards for spending trends and a trigger-based database, it offers a smooth and reliable way to organize your financial life.
